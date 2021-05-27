@@ -1,5 +1,5 @@
 
-<h3> Hello World, I'm <a href="https://facebook.com/cmt.imran" target="_blank"> Imran Hossain</a> /></h3><br>
+<h3> < Hello World, I'm <a href="https://facebook.com/cmt.imran" target="_blank"> Imran Hossain</a> /></h3><br>
 I am a final year CSE student with a great passion for programming. I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. <br> <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Imran_Hossain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ih000/)](https://www.linkedin.com/in/ih000/) [![Gmail Badge](https://img.shields.io/badge/-imran527166@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imran527166@gmail.com)](mailto:imran527166@gmail.com)
@@ -34,7 +34,7 @@ const Imran = {
 
 <br><br>
 <p align="center"> 
-  <img height="1000px" src="https://github-readme-stats.vercel.app/api?username=cmtimran&theme=radical&show_icons=true" alt="Imran's Github Stats" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=cmtimran&theme=radical&show_icons=true" alt="Imran's Github Stats" />
 </p>
 <p align="left">
 <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmtimran&theme=synthwave">
