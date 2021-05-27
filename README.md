@@ -34,7 +34,7 @@ const Imran = {
 
 <br><br>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=cmtimran&theme=radical&show_icons=true" alt="Imran's Github Stats" />
+  <img height="1000px" src="https://github-readme-stats.vercel.app/api?username=cmtimran&theme=radical&show_icons=true" alt="Imran's Github Stats" />
 </p>
 <p align="left">
 <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmtimran&theme=synthwave">
