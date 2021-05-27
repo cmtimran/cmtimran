@@ -1,8 +1,8 @@
 
-<h3> < Hello world, I'm <a href="https://facebook.com/cmt.imran" target="_blank"> Imran Hossain</a> /> <img src="https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/139663994_3443379345887713_1686901891622808262_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=174925&_nc_eui2=AeFKkdaNlAgKDJ695FuPWzWqAd2WSumzqBQB3ZZK6bOoFPrkd5XGac-qnuwWW-1800fbC5lHwTPjU9sBKl0x4yqa&_nc_ohc=MoIDY54lhbQAX-hExAn&_nc_ht=scontent.fcgp17-1.fna&oh=0077ababa7f33ee7cc3230ebebe02285&oe=60D7341B" width="30px" height="50px"></h3>
+<h3> < Hello World, I'm <a href="https://facebook.com/cmt.imran" target="_blank"> Imran Hossain</a> /></h3><br>
 I am a final year CSE student with a great passion for programming. I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Imran_Hossain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ih000/)](https://www.linkedin.com/in/ih000/) [![Gmail Badge](https://img.shields.io/badge/-imran527166@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imran527166@gmail.com)](mailto:imran527166@gmail.com)
+<br>
+[![Linkedin Badge](https://img.shields.io/badge/-Imran_Hossain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ih000/)](https://www.linkedin.com/in/ih000/)  [![Gmail Badge](https://img.shields.io/badge/-imran527166@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imran527166@gmail.com)](mailto:imran527166@gmail.com)
 <br/>
 
 ##### A little more about me...  
@@ -15,10 +15,8 @@ const Imran = {
                 and a lot more ],
   Education : 
            [ 
-           { University: Dhaka International University, 
-             Year :2017-2021 }, 
-           { Collge: Dhaka International University, 
-             Year :2012-2016 }, 
+           { University: Dhaka International University}, 
+           { Collge: MCET Engineering Collage}, 
            { School : Katiadi Pilot Model High School} 
            ],
  Experience : ['Sr. Executive @ NICE Software']
