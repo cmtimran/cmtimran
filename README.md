@@ -36,15 +36,11 @@ const Imran = {
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=cmtimran&theme=radical&show_icons=true" alt="Imran's Github Stats" />
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmtimran&theme=synthwave">
+<p align="left">
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmtimran&theme=synthwave">
+<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=cmtimran&theme=synthwave">
 </p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cmtimran&theme=synthwave">
-</p>
-<p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=cmtimran&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
-</p>
 
 
 
