@@ -30,10 +30,7 @@ const Imran = {
 
 
 
-<br><br>
-<p align="center"> 
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=cmtimran&theme=tokyonight&show_icons=true" alt="Imran's Github Stats" />
-</p>
+<br>
 <p align="left">
   <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmtimran&theme=synthwave">
   <img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=cmtimran&theme=synthwave">
