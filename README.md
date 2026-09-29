@@ -25,24 +25,56 @@ const Imran = {
   education: {
     degree: "Master of Science in Computer Science",
     university: "University of Debrecen, Hungary",
-    semester: "3rd Semester (In Progress) 🎓"
+    status: "In Progress 🎓"
   },
   
   coreFocus: [
-    "📐 3D Computer Graphics & Geometric Modeling",
-    "🚀 High-Performance Full-Stack Web Architecture",
-    "🤖 Applied Artificial Intelligence & Computer Vision"
+    "3D Computer Graphics & Geometric Modeling",
+    "Scalable Full-Stack Web Architecture",
+    "Applied Artificial Intelligence & Computer Vision"
   ],
 
-  code: ["C++", "C#", "Python", "JavaScript (ES6+)", "PHP", "SQL", "C", "GLSL"],
+  code: [
+    "C++", "C#", "Python", "JavaScript", "TypeScript", 
+    "PHP", "SQL", "C", "GLSL", "HTML", "CSS", "Bash"
+  ],
   
   engineeringStack: {
-    graphics: ["Three.js", "OpenGL", "WebGL", "Half-Edge DCEL", "Parametric Curves"],
-    backend: [".NET 8", "Blazor", "Laravel 11", "Node.js"],
-    databases: ["Redis (Caching)", "MySQL", "PostgreSQL", "SQLite"],
-    ai_vision: ["TensorFlow", "OpenCV", "Scikit-Learn"]
+    graphics_3d: [
+      "Three.js", "OpenGL", "WebGL", "GLSL Shaders", 
+      "Half-Edge DCEL", "Subdivision Algorithms", 
+      "Parametric Curves", "Watertight 3D Mesh Extrusion"
+    ],
+
+    backend: [
+      ".NET", "ASP.NET Core", "Blazor", 
+      "Laravel", "Node.js", "Express", "RESTful APIs", "SignalR", "WebSockets"
+    ],
+
+    frontend: [
+      "HTML5 Canvas", "Tailwind CSS", "Bootstrap", "Vite", "WebAssembly"
+    ],
+
+    databases_caching: [
+      "Redis", "MySQL", "PostgreSQL", "SQLite", 
+      "Entity Framework Core", "Eloquent ORM"
+    ],
+
+    ai_vision_ml: [
+      "TensorFlow", "Keras", "OpenCV", "Scikit-Learn", 
+      "NumPy", "Pandas", "Computer Vision Pipelines"
+    ],
+
+    apis_integrations: [
+      "Stripe", "SSLCOMMERZ", "Twilio", "JWT Authentication", "OAuth"
+    ],
+
+    devops_tools: [
+      "Git", "GitHub Actions", "Docker", "Postman", 
+      "Linux", "CMake", "Visual Studio", "VS Code"
+    ]
   },
 
-  currentObsession: "Recursive subdivision limit surfaces & parametric tubular skinning 🎨",
+  currentObsession: "Polygon subdivision limit surfaces & parametric tubular skinning 🎨",
   funFact: "I debug with console.log() and math formulas, and I'm proud of both! 😄"
 };
